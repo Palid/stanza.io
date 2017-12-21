@@ -1,7 +1,7 @@
 {
   "name": "stanza.io",
   "description": "Modern XMPP in the browser, with a JSON API",
-  "version": "9.0.1-mam1",
+  "version": "9.0.2-mam1",
   "author": "Lance Stout <lancestout@gmail.com>",
   "browser": {
     "request": "xhr",
@@ -31,7 +31,7 @@
     "iana-hashes": "^1.0.2",
     "jingle": "github:konradkierus/jingle.js",
     "jxt": "^3.0.1",
-    "@palid/jxt-xmpp": "3.0.0-mam1",
+    "@palid/jxt-xmpp": "3.1.0-mam1",
     "jxt-xmpp-types": "^3.0.0",
     "lodash.assign": "^3.0.0",
     "lodash.filter": "^3.1.0",
