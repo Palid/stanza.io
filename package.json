@@ -31,7 +31,7 @@
     "iana-hashes": "^1.0.2",
     "jingle": "github:softwarehutpl/jingle.js#5de958a7d67a370ffe02bf993e4a62448c7822b7",
     "jxt": "^3.0.1",
-    "@konradkierus/jxt-xmpp": "3.2.1",
+    "@konradkierus/jxt-xmpp": "3.2.2",
     "jxt-xmpp-types": "^3.0.0",
     "lodash.assign": "^3.0.0",
     "lodash.filter": "^3.1.0",
