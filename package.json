@@ -29,7 +29,7 @@
     "faye-websocket": "^0.11.1",
     "hostmeta": "^2.0.0",
     "iana-hashes": "^1.0.2",
-    "jingle": "github:softwarehutpl/jingle.js#6cf08175eceb4f34f715d63e53122713d0c7e691",
+    "jingle": "github:softwarehutpl/jingle.js#22845b053734b4c1cfb0e2d26fb1031bd69b5840",
     "jxt": "^3.0.1",
     "@konradkierus/jxt-xmpp": "3.2.3",
     "jxt-xmpp-types": "^3.0.0",
