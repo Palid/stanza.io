@@ -29,7 +29,7 @@
     "faye-websocket": "^0.11.1",
     "hostmeta": "^2.0.0",
     "iana-hashes": "^1.0.2",
-    "jingle": "github:softwarehutpl/jingle.js#f82fea0435425d0db3a667697f8d46e1733cb054",
+    "jingle": "github:softwarehutpl/jingle.js",
     "jxt": "^3.0.1",
     "@konradkierus/jxt-xmpp": "3.2.3",
     "jxt-xmpp-types": "^3.0.0",
@@ -46,7 +46,7 @@
     "sasl-x-oauth2": "^0.1.0",
     "saslmechanisms": "^0.1.1",
     "uuid": "^3.0.1",
-    "@konradkierus/wildemitter": "^1.0.1",
+    "wildemitter": "^1.0.1",
     "xhr": "^2.0.1",
     "xmpp-jid": "^1.0.0"
   },
